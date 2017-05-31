@@ -73,7 +73,9 @@ header{
   color: white;
   padding: 70px;
 }
-
+h2{
+    padding-top: 100px;
+}
 .text-home{
   font-size: 53px;
 }
@@ -106,6 +108,26 @@ header{
 .text-services{
   font-size: 35px;
   letter-spacing: 2px;
+}
+
+.caja-tres{
+    padding-top: 60px;
+    width: 100%;
+}
+.work {
+    text-align: center;
+    font-size: 30px;
+}
+.texto-p{
+    box-sizing: border-box;
+    margin: 0 200px 0 200px;
+    text-align: center;
+}
+
+.notebook{
+    padding-top: 50px;
+    margin-left: 250px;
+    
 }
 
 footer{
